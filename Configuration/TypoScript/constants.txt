@@ -1,0 +1,14 @@
+plugin.tx_pdecarexample {
+	view {
+		# cat=plugin.tx_pdecarexample/file; type=string; label=Path to template root (FE)
+		templateRootPath = EXT:pde_car_example/Resources/Private/Templates/
+		# cat=plugin.tx_pdecarexample/file; type=string; label=Path to template partials (FE)
+		partialRootPath = EXT:pde_car_example/Resources/Private/Partials/
+		# cat=plugin.tx_pdecarexample/file; type=string; label=Path to template layouts (FE)
+		layoutRootPath = EXT:pde_car_example/Resources/Private/Layouts/
+	}
+	persistence {
+		# cat=plugin.tx_pdecarexample//a; type=string; label=Default storage PID
+		storagePid =
+	}
+}

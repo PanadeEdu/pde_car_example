@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-03-21T19:40:40Z" product-name="pde_car_example">
+		<header/>
+		<body>
+
+			<trans-unit id="tx_pdecarexample_domain_model_car">
+				<source>Car</source>
+			</trans-unit>
+			<trans-unit id="tx_pdecarexample_domain_model_car.name">
+				<source>Car Name</source>
+			</trans-unit>
+			<trans-unit id="tx_pdecarexample_domain_model_car.price">
+				<source>Car Price</source>
+			</trans-unit>
+			<trans-unit id="tx_pdecarexample_domain_model_car.color">
+				<source>Car Color</source>
+			</trans-unit>
+			<trans-unit id="tx_pdecarexample_domain_model_car.owner">
+				<source>owner</source>
+			</trans-unit>
+			
+		</body>
+	</file>
+</xliff>
